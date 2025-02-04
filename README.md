@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hey there, I'm Haroon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
-<p>I have worked on a variety of projects ranging from AI to web development. My experience and dedication allow me to deliver high-quality work on time, always striving for excellence in every task I undertake.</p>
+<p>I have worked on a variety of projects ranging from web development to AI. My experience and dedication allow me to deliver high-quality work on time, always striving for excellence in every task I undertake.</p>
 
 <div align="center">
 <p align="center">Let's connect!</p>
@@ -32,31 +32,27 @@ Here are some ideas to get you started:
 
 <br>
 
-### An Artificial Intelligence & Robotics Engineer
-
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
-
 #### Talking about my personal stuff:
 
 - 🙋‍♂️ Freelancer on various platforms
-- ⚡ Data Scraping/Web Automation
-- 💻 Artificial Intelligence/Machine Learning Enthusiast
+- ⚡ Web Development & AI Enthusiast
+- 💻 Web Development (HTML, CSS, JavaScript, React, Django)
 - 📑 Masters in Artificial Intelligence
 - 💪 Hands-on experience with Data Analysis
+- 🌱 Currently learning more about UI/UX Design
 
 ### My skills 🛠
 👉 Data Scraping (Python/bs4/Requests) (Since 2019)<br>
 👉 Web Automation (Python/Selenium) (Since 2019)<br>
 👉 Machine Learning (Python/Sci-kit learn/Pytorch) (Since 2021)<br>
-<br>
+👉 HTML, CSS, JavaScript, React, Django<br>
+👉 Figma, UI/UX Design<br>
 👉 Multithreaded code<br>
 👉 Output in JSON/CSV/Excel<br>
 👉 Clean and efficient<br>
 👉 Commented and prettified code<br>
 👉 Parsing data and APIs<br>
 👉 C++<br>
-👉 HTML, CSS, JavaScript, React, Django<br>
-👉 Figma, UI/UX Design<br>
 
 <div align="center">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
