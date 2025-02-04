@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hey there, I'm Haroon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
-<p>I have worked on a variety of projects ranging from web development to AI. My experience and dedication allow me to deliver high-quality work on time, always striving for excellence in every task I undertake.</p>
+<p>I'm a web developer, graphic designer, and UI/UX designer passionate about creating seamless digital experiences. I've developed websites for businesses like <br/>
+    <a href="https://datafitt.com/">DataFitt</a>, <br /> Alfalah Maid Services, Alfalah Pure Drop, and Aitemaad Maid Services. Alongside web development, I design logos, branding materials, and user-friendly interfaces to enhance digital products. I also work on productivity tools, including a Chrome extension for managing bookmarks and custom links. My focus is on crafting visually appealing, user-centric designs while ensuring functionality and efficiency. Constantly exploring new technologies, I strive to deliver innovative solutions that enhance user experiences. 🚀</p>
 
 <div align="center">
 <p align="center">Let's connect!</p>
