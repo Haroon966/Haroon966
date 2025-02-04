@@ -4,11 +4,11 @@
 
 ### Hey there, I'm Haroon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
-<p align="center">
+<p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Web+Developer;UI%2FUX+Designer;Graphic+Designer;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<p>
   I'm a web developer, graphic designer, and UI/UX designer passionate about creating seamless digital experiences. I've developed websites for businesses like <br/>
   <b>
     <a href="https://datafitt.com/">DataFitt</a>, <br /> 
