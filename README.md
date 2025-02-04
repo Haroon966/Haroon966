@@ -37,22 +37,22 @@ Here are some ideas to get you started:
 - 🙋‍♂️ Freelancer on various platforms
 - ⚡ Web Development & AI Enthusiast
 - 💻 Web Development (HTML, CSS, JavaScript, React, Django)
-- 📑 Masters in Artificial Intelligence
-- 💪 Hands-on experience with Data Analysis
-- 🌱 Currently learning more about UI/UX Design
+- 💪 Hands-on experience with Front End
+- 🌱 Currently learning more about Python Django
 
 ### My skills 🛠
-👉 Data Scraping (Python/bs4/Requests) (Since 2019)<br>
-👉 Web Automation (Python/Selenium) (Since 2019)<br>
-👉 Machine Learning (Python/Sci-kit learn/Pytorch) (Since 2021)<br>
 👉 HTML, CSS, JavaScript, React, Django<br>
 👉 Figma, UI/UX Design<br>
 👉 Multithreaded code<br>
 👉 Output in JSON/CSV/Excel<br>
 👉 Clean and efficient<br>
 👉 Commented and prettified code<br>
-👉 Parsing data and APIs<br>
-👉 C++<br>
+👉 Python<br>
+👉 JavaScript<br>
+👉 HTML<br>
+👉 CSS<br>
+👉 Type Script<br>
+
 
 <div align="center">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
