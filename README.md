@@ -18,20 +18,21 @@
   </b>
   Alongside web development, I design logos, branding materials, and user-friendly interfaces to enhance digital products. I also work on productivity tools, including a Chrome extension for managing bookmarks and custom links. My focus is on crafting visually appealing, user-centric designs while ensuring functionality and efficiency. Constantly exploring new technologies, I strive to deliver innovative solutions that enhance user experiences. 🚀
 </p>
-
 <div align="center">
-  <p align="center">Let's connect!</p>
-
-  <a href="https://www.instagram.com/haroon.1920/">
-    <img width="32" height="32" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
-  </a>
-  <a href="mailto:haroon.orenda@gmail.com">
-    <img width="32" height="32" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=+923435971748">
-    <img width="32" height="32" src="https://web.whatsapp.com/favicon-64x64.ico" />
-  </a>
+  <p style="font-size: 20px; font-weight: bold;">Let's connect!</p>
+  <div style="display: flex; gap: 20px; justify-content: center;">
+    <a href="https://www.instagram.com/haroon.1920/" target="_blank">
+      <img width="32" height="32" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" />
+    </a>
+    <a href="mailto:haroon.orenda@gmail.com" target="_blank">
+      <img width="32" height="32" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="Email" />
+    </a>
+    <a href="https://api.whatsapp.com/send?phone=+923435971748" target="_blank">
+      <img width="32" height="32" src="https://web.whatsapp.com/favicon-64x64.ico" alt="WhatsApp" />
+    </a>
+  </div>
 </div>
+
 
 <br>
 
