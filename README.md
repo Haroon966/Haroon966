@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/haroon.1920/">
     <img width="32" height="32" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
 </a>
-<a href="mailto:haroon966@example.com">
+<a href="mailto:haroon.orenda@gmail.com">
     <img width="32" height="32" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />
 </a>
-<a href="https://api.whatsapp.com/send?phone=923XXXXXXX">
+<a href="https://api.whatsapp.com/send?phone=+923435971748">
     <img width="32" height="32" src="https://web.whatsapp.com/favicon-64x64.ico" />
 </a>
 
@@ -55,6 +55,8 @@ Here are some ideas to get you started:
 👉 Commented and prettified code<br>
 👉 Parsing data and APIs<br>
 👉 C++<br>
+👉 HTML, CSS, JavaScript, React, Django<br>
+👉 Figma, UI/UX Design<br>
 
 <div align="center">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
@@ -62,4 +64,4 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div>
 
-Artificial Intelligence & Robotics Engineer from <b>Pakistan</b> 💚
+Web Developer and UI & UX designer from <b>Pakistan</b> 💚
