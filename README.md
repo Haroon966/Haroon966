@@ -20,7 +20,7 @@
 </p>
 <div align="center">
   <p style="font-size: 20px; font-weight: bold;">Let's connect!</p>
-  <div style="display: flex; gap: 20px; justify-content: center;">
+  <div style="display: flex; gap: 20px; justify-content: center;margin-left: 20px;">
     <a href="https://www.instagram.com/haroon.1920/" target="_blank">
       <img width="32" height="32" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" />
     </a>
