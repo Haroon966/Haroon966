@@ -87,6 +87,8 @@ const haroon = {
 
 ### Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
 </div>
@@ -107,12 +109,12 @@ const haroon = {
       <p>Building responsive, performant websites with modern frameworks</p>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/clouds/100/design.png" width="80"/>
+      <img src="https://img.icons8.com/clouds/100/figma.png" width="80"/>
       <h3>UI/UX Design</h3>
       <p>Creating intuitive, user-centric digital experiences</p>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/clouds/100/graphic-design.png" width="80"/>
+      <img src="https://img.icons8.com/clouds/100/paint-palette.png" width="80"/>
       <h3>Graphic Design</h3>
       <p>Crafting visual identities and branding materials</p>
     </td>
@@ -128,13 +130,12 @@ const haroon = {
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Haroon966&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Haroon966&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Haroon966&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Haroon966&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haroon966&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Haroon966&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Haroon966&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
@@ -147,7 +148,7 @@ const haroon = {
 
 <div align="center">
   
-![](https://github-profile-trophy.vercel.app/?username=Haroon966&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+![](https://github-profile-trophy-orcin-eta.vercel.app/?username=Haroon966&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
 
 </div>
 
@@ -183,7 +184,7 @@ const haroon = {
 
 **Open to collaborations and exciting opportunities!**
 
-![](https://visitcount.itsvg.in/api?id=Haroon966&icon=2&color=6)
+![](https://komarev.com/ghpvc/?username=Haroon966&style=for-the-badge&color=0e75b6)
 
 </div>
 
